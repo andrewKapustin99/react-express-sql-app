@@ -6,6 +6,8 @@ function App() {
       <PostList />
     </main>
   );
-}
+};
 
 export default App;
+
+// test
